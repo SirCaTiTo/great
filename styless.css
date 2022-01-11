@@ -18,10 +18,16 @@ table {
   }
 
 marquee{
-
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: #ffffff;
-background-color: #0B20DA;;
+background-color: #0B20DA;
 height: 35px;
-
 }
+
+p{
+  color: #9c0bdf;
+  background-color: black;
+  background-size: 30%;
+  
+}
+
